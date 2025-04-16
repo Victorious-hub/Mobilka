@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "925921826123",
+    "project_id": "calculatir-d86a6",
+    "storage_bucket": "calculatir-d86a6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925921826123:android:88f58dd7ebaf765b40c4ce",
+        "android_client_info": {
+          "package_name": "com.example.calculatorapp.full"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgDLH9q0R4q87YdWSUjJAJyZcPWi2HB0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
